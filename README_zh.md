@@ -2,84 +2,70 @@
 
 [English](./README.md) | [中文](./README_zh.md) | [日本語](./README_ja.md)
 
-发现最好的免费 AI 工具与网站  
-浏览覆盖所有分类的精选免费 AI 工具与 AI 网站目录。
+发现优质免费 AI 工具、AI 网站与精选 AI 资源。  
+FreeAI.run 是一个面向搜索流量与产品曝光的多语言 AI 工具目录，帮助用户更快找到实用工具，也帮助产品方通过提交收录、精选展示与站内广告获得更多发现。
 
-这两句话不只是宣传语，也代表了 FreeAI.run 的核心定位：
-
-- 愿景：让用户更容易发现真正有价值的 AI 工具，而不是在杂乱、重复、质量参差不齐的列表里反复筛选。
-- 目标：把免费 AI 工具和 AI 网站按分类、场景、推荐逻辑整理成一个更清晰、更好浏览的目录。
-- 承诺：帮助普通用户更快找到实用工具，也帮助产品方在合适的场景里被更精准地发现。
-
-线上地址：[https://www.freeai.run](https://www.freeai.run)  
+官网地址：[https://www.freeai.run](https://www.freeai.run)  
 GitHub：[https://github.com/a136332462/FreeAI.run](https://github.com/a136332462/FreeAI.run)
 
-## 项目简介
+## 项目定位
 
-**FreeAI.run** 可以被理解成一个围绕“发现最好的免费 AI 工具和 AI 网站”建立起来的目录产品。
+FreeAI.run 不是单纯的工具列表页，而是一个围绕 AI 工具发现、分类、推荐、收录和推广搭建的目录型站点。
 
-如果把这句宣传语拆开来看，它其实也在说明这个网站想做什么：
+它当前主要服务四类目标：
 
-- “发现最好的”强调的不是堆量，而是筛选、整理和推荐，让用户更快接触到更值得尝试的产品。
-- “免费 AI 工具与网站”强调的是网站的核心切入点，优先帮助用户找到更容易上手、试用门槛更低的 AI 产品。
-- “覆盖所有分类”说明它不是单一赛道站点，而是希望把生产力、创意、内容创作、开发等不同方向的 AI 工具都纳入进来。
-
-如果从不同角色来看，别人通常会这样介绍它：
-
-- 对普通用户来说，它是一个更容易发现免费 AI 工具的网站，覆盖生产力、创意、内容创作等不同方向。
-- 对产品方来说，它是一个既能免费提交产品，也能做付费收录和广告推广的曝光渠道。
-- 对内容站运营者来说，它不是单一落地页，而是由分类页、产品页、专题页、归档页和多语言路由组成的完整目录站。
-
-它尤其适合 AI 创业者、独立开发者、SaaS 团队、营销团队，以及不想在低质量榜单里反复筛选工具的用户。
+- 帮助用户按分类、场景和价格模式发现实用 AI 工具
+- 通过分类页、免费工具页、年度精选页、每月上新页等 SEO 页面承接搜索流量
+- 给产品方提供免费提交与付费升级收录入口
+- 给已收录产品提供站内广告投放与持续曝光能力
 
 ## 主要公开页面
 
-| 页面 | 完整地址 | 功能说明 |
+| 页面 | 地址 | 作用 |
 | --- | --- | --- |
-| 首页 | [https://www.freeai.run/zh](https://www.freeai.run/zh) | 首页搜索入口、热门工具、推荐位和分类入口 |
-| 免费 AI 工具 | [https://www.freeai.run/zh/free-ai-tools](https://www.freeai.run/zh/free-ai-tools) | 专门展示带免费价格方案的 AI 工具 |
-| 全部免费 AI 工具 | [https://www.freeai.run/zh/free-ai-tools/all](https://www.freeai.run/zh/free-ai-tools/all) | 查看所有带免费价格的工具 |
-| 分类下免费工具 | [https://www.freeai.run/zh/free-ai-tools/[slug]](https://www.freeai.run/zh/free-ai-tools) | 查看某个分类下的免费 AI 工具 |
-| Best AI Tools | [https://www.freeai.run/zh/best-ai-tools](https://www.freeai.run/zh/best-ai-tools) | 精选 AI 工具合集 |
-| 按年份查看 Best AI Tools | [https://www.freeai.run/zh/best-ai-tools/[year]](https://www.freeai.run/zh/best-ai-tools) | 按年份浏览精选工具 |
-| 本月上新 | [https://www.freeai.run/zh/new](https://www.freeai.run/zh/new) | 查看本月新增 AI 工具 |
-| 月份归档 | [https://www.freeai.run/zh/new/[month]](https://www.freeai.run/zh/new) | 按月份查看上新归档 |
-| 分类页 | [https://www.freeai.run/zh/categories](https://www.freeai.run/zh/categories) | 所有分类与目录入口 |
-| 分类详情 | [https://www.freeai.run/zh/categories/[slug]](https://www.freeai.run/zh/categories) | 某个具体分类的工具页 |
-| 搜索 | [https://www.freeai.run/zh/search](https://www.freeai.run/zh/search) | 站内搜索工具与产品 |
-| Explore | [https://www.freeai.run/zh/explore](https://www.freeai.run/zh/explore) | 按价格模式、平台、年份等条件探索产品 |
-| 开源专题 | [https://www.freeai.run/zh/open-source](https://www.freeai.run/zh/open-source) | 开源工具与开源软件专题页 |
-| 联盟计划 | [https://www.freeai.run/zh/affiliate](https://www.freeai.run/zh/affiliate) | 带联盟计划的产品集合 |
-| 折扣优惠 | [https://www.freeai.run/zh/discount](https://www.freeai.run/zh/discount) | 折扣、优惠码与促销活动页面 |
-| 产品详情 | [https://www.freeai.run/zh/product/[slug]](https://www.freeai.run/zh/product) | 单个产品详情页 |
-| Skills 内容中心 | [https://www.freeai.run/zh/skills](https://www.freeai.run/zh/skills) | Skills 文档与文章聚合页 |
-| Skills 文章页 | [https://www.freeai.run/zh/skills/[slug]](https://www.freeai.run/zh/skills) | 单篇 Skills 内容页 |
-| 套餐页 | [https://www.freeai.run/zh/pricing](https://www.freeai.run/zh/pricing) | 收录套餐与广告套餐介绍 |
-| 提交产品 | [https://www.freeai.run/zh/submit](https://www.freeai.run/zh/submit) | 提交 AI 工具 |
-| 广告投放 | [https://www.freeai.run/zh/advertise](https://www.freeai.run/zh/advertise) | 提交广告创意并购买广告位 |
+| 首页 | [https://www.freeai.run/](https://www.freeai.run/) | AI 工具发现、搜索、精选展示和分类导航入口 |
+| Free AI Tools | [https://www.freeai.run/free-ai-tools](https://www.freeai.run/free-ai-tools) | 主打“带免费方案”的 AI 工具入口页 |
+| 全部免费 AI 工具 | [https://www.freeai.run/free-ai-tools/all](https://www.freeai.run/free-ai-tools/all) | 所有免费定价工具的总列表 |
+| 分类下免费工具 | [https://www.freeai.run/free-ai-tools/[slug]](https://www.freeai.run/free-ai-tools) | 某个分类下的免费 AI 工具页 |
+| Best AI Tools | [https://www.freeai.run/best-ai-tools](https://www.freeai.run/best-ai-tools) | 精选 AI 工具合集 |
+| 年度 Best AI Tools | [https://www.freeai.run/best-ai-tools/[year]](https://www.freeai.run/best-ai-tools) | 按年份整理的精选页 |
+| 本月上新 | [https://www.freeai.run/new](https://www.freeai.run/new) | 最新收录工具页 |
+| 月度归档 | [https://www.freeai.run/new/[month]](https://www.freeai.run/new) | 按月份归档的上新页 |
+| 分类页 | [https://www.freeai.run/categories](https://www.freeai.run/categories) | 全部分类总览 |
+| 分类详情 | [https://www.freeai.run/categories/[slug]](https://www.freeai.run/categories) | 具体分类落地页 |
+| 搜索 | [https://www.freeai.run/search](https://www.freeai.run/search) | 站内搜索 |
+| Explore | [https://www.freeai.run/explore](https://www.freeai.run/explore) | 按价格模式、平台、成立年份筛选浏览 |
+| Open Source | [https://www.freeai.run/open-source](https://www.freeai.run/open-source) | 开源 AI 工具与软件专题 |
+| Affiliate | [https://www.freeai.run/affiliate](https://www.freeai.run/affiliate) | 带联盟计划的产品集合 |
+| Discount | [https://www.freeai.run/discount](https://www.freeai.run/discount) | 折扣、优惠码与促销专题 |
+| 产品详情 | [https://www.freeai.run/product/[slug]](https://www.freeai.run/product) | 单个产品的 SEO 详情页 |
+| Skills 内容中心 | [https://www.freeai.run/skills](https://www.freeai.run/skills) | Skills/文档类内容聚合页 |
+| Skills 文章页 | [https://www.freeai.run/skills/[slug]](https://www.freeai.run/skills) | 单篇长内容文章 |
+| Pricing | [https://www.freeai.run/pricing](https://www.freeai.run/pricing) | 收录与广告的公开定价页 |
+| Submit | [https://www.freeai.run/submit](https://www.freeai.run/submit) | 产品提交入口 |
+| Advertise | [https://www.freeai.run/advertise](https://www.freeai.run/advertise) | 广告创建与支付入口 |
 
-## 核心页面价值
+## 这个站点的核心价值
 
-- 首页负责承接品牌词、搜索入口、热门工具和推荐位曝光。
-- 免费 AI 工具页专门服务“free ai tools”这类强意图用户。
-- Best AI Tools 更偏精选推荐，适合品牌曝光和高质量推荐流量。
-- New 页面强调更新频率，适合承接“最新 AI 工具”类需求。
-- 分类页适合承接更细的长尾搜索词。
-- 产品详情页为每个产品提供独立落地页，更利于品牌词和功能词收录。
-- Search 和 Explore 适合高意图用户快速筛选产品。
-- Skills 页面补充长内容深度，提升整体主题相关性。
-- Submit 和 Advertise 直接承接站点的商业转化。
+- SEO 结构化强：分类页、免费工具页、精选页、月度页、产品页共同承接长尾搜索流量
+- 多语言覆盖：支持英文、简体中文、日文三套公开路由
+- 商业转化明确：不只做目录展示，还把流量转成提交、升级与广告订单
+- 内容层完整：除了目录页，还有 Skills 内容页和专题页，避免站点显得过薄
 
-## 收录套餐
+## 收录方案
+
+当前项目支持免费提交和付费升级收录。
 
 ### 免费收录 Free Listing
 
-- 免费提交网站
+- 免费提交你的工具
 - 基础目录展示
 - 标准曝光
 - 需要在网站页脚添加指向 FreeAI.run 的 dofollow 反链
-- 3 天内审核
-- 需要选择 badge 并展示在网站上
+- 需要人工审核
+- 提交时支持选择 badge 展示
+- 提交流程内带有“每日免费名额限制”
+- 当前限制：每个登录用户每天最多 `1` 次免费提交
 
 ### One-Time
 
@@ -92,14 +78,15 @@ GitHub：[https://github.com/a136332462/FreeAI.run](https://github.com/a13633246
 - 即时审核，立即上线
 - 标准目录展示
 - 一次付费，终身有效
+- 无需展示 badge
 - 优先支持
-- 不要求展示 badge
+- 当免费日额度用完时，可作为“付费跳过排队”的即时方案
 
 ### Monthly Promotion
 
 价格：**$5.00 / 月**
 
-- 每月自动刷新到顶部
+- 每月自动刷新到前列
 - 持续首页曝光
 - 始终高亮显示
 - 5+ dofollow 反链
@@ -107,14 +94,15 @@ GitHub：[https://github.com/a136332462/FreeAI.run](https://github.com/a13633246
 - 永久收录，不要求反链
 - 即时审核，立即上线
 - 收录进 AI 工具目录
+- 无需展示 badge
 - 优先支持
-- 不要求展示 badge
+- 在公开定价页中被标记为热门方案
 
 ### Featured Listing
 
 价格：**$29.00 / 月**
 
-- 全站顶部横幅曝光，7 天轮播
+- 全站顶部横幅曝光
 - 高流量页面高级推荐位
 - 持续首页曝光
 - 几乎全站页面都能获得推广展示
@@ -124,80 +112,93 @@ GitHub：[https://github.com/a136332462/FreeAI.run](https://github.com/a13633246
 - 永久收录，不要求反链
 - 即时审核，立即上线
 - 收录进 AI 工具目录
+- 无需展示 badge
 - 优先支持
-- 不要求展示 badge
+- 相比普通付费收录拥有更高的目录曝光等级
 
-## 广告套餐
+## 广告与推广能力
 
-### Boost Listing (AD)
+除了收录升级，FreeAI.run 还提供独立的广告投放流程，面向已经收录到目录中的产品。
 
-价格：**$9.90 / 7 天**
+当前实现里，广告能力包括：
 
-- 全站 listing 流轮播曝光 7 天
-- 在分类页、搜索页等多个页面随机曝光
-- 在产品详情页侧边栏轮播展示 7 天
-- 免费升级到 One-Time Pro 收录
+- 先选择一个已收录产品，再创建广告
+- 支持英文、中文、日文的广告标题、落地链接和短文案
+- 通过与收录相同的支付体系完成结算
+- 广告创意先审核，再进入投放
+- 用户后台可查看支付状态、审核状态和投放状态
+- 支持曝光统计和点击追踪
 
-### Featured Promotion (AD)
+### 当前广告位
 
-价格：**$19.90 / 7 天**
+- `home_top`：首页顶部横幅广告位
+- `home_welcome_ad`：首页欢迎区/hero 区赞助位
+- `list_mid_recommend`：目录列表流中的赞助卡片位
+- `product_detail_sidebar_card`：产品详情页侧边栏广告位
 
-- 首页 welcome 区域轮播展示 7 天
-- 全站 listing 流曝光
-- 产品详情页侧边栏稳定展示 7 天
-- 首页、分类、搜索、AI listing 等多个页面持续曝光
-- 升级为 One-Time Pro + Monthly Promotion
+### 关于广告套餐价格
 
-### Top Banner Campaign (AD)
+广告套餐是从站点当前的 live 定价配置中动态读取的，而且这部分价格不稳定固化在当前仓库文件里。  
+这次核对时，我已经直接从线上 `/pricing` 页确认了提交套餐价格；但广告套餐所在的标签页在当前抓取环境里仍然是动态切换内容，没有被完整展开出来。  
+为了避免 README 把广告套餐名称和价格写错，当前广告套餐请仍以线上页面为准：
 
-价格：**$39.90 / 7 天**
+- [https://www.freeai.run/pricing](https://www.freeai.run/pricing)
+- [https://www.freeai.run/advertise](https://www.freeai.run/advertise)
 
-- 全站顶部横幅轮播展示 7 天
-- 首页 welcome 区域展示
-- 全站 listing 流曝光
-- 产品详情页侧边栏优先展示
-- 全站促销位置优先曝光
-- 升级为 Featured Listing
+README 在这里保留的是“已确认的广告能力与广告位”，而不是可能已经在后台调整过的旧价格文案。
 
-### Premium Launch (AD)
+## 用户后台与管理后台
 
-价格：**$89.00 / 7 天**
+项目当前包含完整的用户端和管理端后台。
 
-- 全站顶部横幅独占展示 7 天
-- 首页 welcome 区域独占展示
-- 产品详情页侧边栏独占展示 7 天
-- 全站 listing 流曝光
-- 所有促销位最高优先级，无同位竞争
-- 升级为 Featured Listing
+用户侧包括：
 
-## 不同角色会怎么介绍 FreeAI.run
+- 我的订单
+- 个人资料与产品管理
+- 广告管理
+- 设置
 
-### 站在普通用户角度
+## SEO 与内容结构
 
-FreeAI.run 更像一个好用的 AI 工具发现网站。它没有把所有内容都堆在一个页面里，而是把免费工具、精选工具、本月上新、开源项目、折扣信息和分类目录拆开，让用户可以更快找到想要的产品。
+FreeAI.run 的目标不只是承接品牌词，而是覆盖多种 AI 工具搜索意图。
 
-### 站在产品方角度
+当前主要 SEO 内容层包括：
 
-FreeAI.run 是一个可直接承接曝光需求的平台。产品方可以先免费提交，也可以升级付费收录，或者直接购买首页、列表流、详情页侧边栏等广告位来获取更强曝光。
+- 免费 AI 工具页
+- Best AI Tools 精选页
+- 每月上新归档页
+- 分类落地页
+- 产品详情页
+- 开源工具页
+- 联盟计划页
+- 折扣优惠页
+- Skills / 文档型内容页
 
-### 站在营销人员角度
-
-FreeAI.run 更像一个垂直流量入口。这里的访问者本身就在找 AI 工具，所以不管是做品牌曝光、持续露出，还是做 7 天推广活动，都更容易匹配到高意图用户。
-
-### 站在内容运营者角度
-
-FreeAI.run 看起来不像一个薄内容页面，而像一个结构完整的内容型目录站。它有首页发现层、分类中心、产品详情页、月度归档、精选集合以及 Skills 内容层，整体会显得更完整，也更容易被理解。
+这种结构既能覆盖 `free ai tools` 这类高频词，也能覆盖分类词、年份词、定价词、产品名词等长尾词。
 
 ## 多语言访问
 
-当前项目支持：
+当前支持：
 
 - English
 - 简体中文
 - 日本語
 
-中文入口：
+路由规则：
 
-- [https://www.freeai.run/zh](https://www.freeai.run/zh)
+- 英文默认不带语言前缀
+- 中文使用 `/zh`
+- 日文使用 `/ja`
 
-英文默认不带语言前缀，日文版本使用 `/ja` 路径。
+示例：
+
+- 英文：[https://www.freeai.run/](https://www.freeai.run/)
+- 中文：[https://www.freeai.run/zh](https://www.freeai.run/zh)
+- 日文：[https://www.freeai.run/ja](https://www.freeai.run/ja)
+
+## FreeAI.run 适合谁
+
+- 想快速找免费 AI 工具、但不想翻低质量榜单的普通用户
+- 希望获得更多自然曝光的 AI 产品方
+- 想购买目录原生推广位的营销人员
+- 想运营一个结构化 AI 垂直流量站的人

@@ -2,202 +2,203 @@
 
 [English](./README.md) | [中文](./README_zh.md) | [日本語](./README_ja.md)
 
-最高の無料 AI ツールと Web サイトを見つけよう  
-あらゆるカテゴリの厳選された無料 AI ツールと AI Web サイトをまとめて探せるディレクトリです。
+無料で使える AI ツール、AI サイト、厳選 AI リソースを見つけるための多言語ディレクトリです。  
+FreeAI.run は、ユーザーには実用的な AI ツール発見体験を、プロダクト運営者には掲載申請・有料掲載・サイト内広告による露出拡大の導線を提供します。
 
-この 2 行は単なるキャッチコピーではなく、FreeAI.run の方向性そのものを表しています。
-
-- ビジョン: 雑多で質のばらつく一覧ではなく、本当に使いやすい AI ツールを見つけやすくすること。
-- 目標: 無料で使える AI ツールや AI サイトを、カテゴリや用途ごとに整理して探しやすくすること。
-- 約束: 一般ユーザーには実用的な発見体験を、プロダクト運営者には見つけてもらいやすい露出の場を提供すること。
-
-本番サイト: [https://www.freeai.run](https://www.freeai.run)  
+サイト: [https://www.freeai.run](https://www.freeai.run)  
 GitHub: [https://github.com/a136332462/FreeAI.run](https://github.com/a136332462/FreeAI.run)
 
-## 概要
+## FreeAI.run とは
 
-**FreeAI.run** は、「優れた無料 AI ツールと AI サイトを見つけやすくすること」を中心にしたディレクトリ型サイトです。
+FreeAI.run は、AI ツールの発見、分類、推薦、掲載、宣伝をまとめて支えるディレクトリ型サイトです。
 
-このキャッチコピーを分けて見ると、サイトの役割がよりはっきりします。
+現在の主な役割は次の 4 つです。
 
-- 「最高の」は、数を並べることよりも、整理して見つけやすくすることを重視しているという意味です。
-- 「無料 AI ツールと Web サイト」は、まず試しやすく、導入しやすい AI プロダクトを探したい人に向けた入口であることを示しています。
-- 「あらゆるカテゴリ」は、文章生成、画像生成、開発、生産性向上など、幅広い AI ユースケースを一つの場所で見られることを意味しています。
-
-立場ごとに見ると、次のように紹介しやすいサイトです。
-
-- 一般ユーザーにとっては、無料 AI ツールをカテゴリ別に探しやすい発見サイトです。
-- プロダクト運営者にとっては、無料掲載、有料掲載、広告出稿までできる露出チャネルです。
-- コンテンツサイトの観点では、カテゴリページ、製品ページ、特集ページ、アーカイブ、多言語ルートが揃った整理されたディレクトリです。
-
-特に、AI プロダクトの運営者、個人開発者、SaaS チーム、マーケター、そして質の低い一覧ページを避けて効率よくツールを探したいユーザーに向いています。
+- ライティング、デザイン、動画、開発、マーケティング、生産性向上など幅広い用途の AI ツールを探しやすくする
+- カテゴリページ、無料ツールページ、年間ベスト、月次新着などの SEO 向けページで検索流入を受ける
+- プロダクト運営者に無料掲載と有料アップグレードの導線を提供する
+- 既掲載プロダクト向けに、サイト内広告による継続的な露出機会を提供する
 
 ## 主な公開ページ
 
-| ページ | 完全 URL | 役割 |
+| ページ | URL | 役割 |
 | --- | --- | --- |
-| ホーム | [https://www.freeai.run/ja](https://www.freeai.run/ja) | 検索、トレンド、注目枠、カテゴリ導線をまとめたトップページ |
-| Free AI Tools | [https://www.freeai.run/ja/free-ai-tools](https://www.freeai.run/ja/free-ai-tools) | 無料料金プランのある AI ツール専用ページ |
-| All Free AI Tools | [https://www.freeai.run/ja/free-ai-tools/all](https://www.freeai.run/ja/free-ai-tools/all) | 無料価格の AI ツールを一覧表示 |
-| Category Free AI Tools | [https://www.freeai.run/ja/free-ai-tools/[slug]](https://www.freeai.run/ja/free-ai-tools) | 特定カテゴリ内の無料 AI ツール一覧 |
-| Best AI Tools | [https://www.freeai.run/ja/best-ai-tools](https://www.freeai.run/ja/best-ai-tools) | 厳選した AI ツール集 |
-| Best AI Tools by Year | [https://www.freeai.run/ja/best-ai-tools/[year]](https://www.freeai.run/ja/best-ai-tools) | 年ごとのおすすめ AI ツールページ |
-| New This Month | [https://www.freeai.run/ja/new](https://www.freeai.run/ja/new) | 今月追加された AI ツール |
-| Monthly Archive | [https://www.freeai.run/ja/new/[month]](https://www.freeai.run/ja/new) | 月ごとの新着アーカイブ |
-| Categories | [https://www.freeai.run/ja/categories](https://www.freeai.run/ja/categories) | すべてのカテゴリ一覧 |
-| Category Detail | [https://www.freeai.run/ja/categories/[slug]](https://www.freeai.run/ja/categories) | 個別カテゴリページ |
-| Search | [https://www.freeai.run/ja/search](https://www.freeai.run/ja/search) | サイト内検索ページ |
-| Explore | [https://www.freeai.run/ja/explore](https://www.freeai.run/ja/explore) | 料金モデル、対応プラットフォーム、年などで絞り込む探索ページ |
-| Open Source | [https://www.freeai.run/ja/open-source](https://www.freeai.run/ja/open-source) | オープンソース特集 |
-| Affiliate | [https://www.freeai.run/ja/affiliate](https://www.freeai.run/ja/affiliate) | アフィリエイト対応製品一覧 |
-| Discounts | [https://www.freeai.run/ja/discount](https://www.freeai.run/ja/discount) | 割引、クーポン、キャンペーン情報 |
-| Product Detail | [https://www.freeai.run/ja/product/[slug]](https://www.freeai.run/ja/product) | 各プロダクトの詳細ページ |
-| Skills Hub | [https://www.freeai.run/ja/skills](https://www.freeai.run/ja/skills) | Skills 記事とドキュメントの一覧 |
-| Skill Article | [https://www.freeai.run/ja/skills/[slug]](https://www.freeai.run/ja/skills) | Skills の個別記事 |
-| Pricing | [https://www.freeai.run/ja/pricing](https://www.freeai.run/ja/pricing) | 掲載プランと広告プランの案内 |
-| Submit | [https://www.freeai.run/ja/submit](https://www.freeai.run/ja/submit) | AI ツール掲載申請ページ |
-| Advertise | [https://www.freeai.run/ja/advertise](https://www.freeai.run/ja/advertise) | 広告購入とクリエイティブ提出ページ |
+| Home | [https://www.freeai.run/](https://www.freeai.run/) | AI ツール発見、検索、注目枠、カテゴリ導線のトップページ |
+| Free AI Tools | [https://www.freeai.run/free-ai-tools](https://www.freeai.run/free-ai-tools) | 無料プラン付き AI ツール専用の入口ページ |
+| All Free AI Tools | [https://www.freeai.run/free-ai-tools/all](https://www.freeai.run/free-ai-tools/all) | 無料価格帯ツールの一覧 |
+| Free AI Tools by Category | [https://www.freeai.run/free-ai-tools/[slug]](https://www.freeai.run/free-ai-tools) | カテゴリ別の無料 AI ツールページ |
+| Best AI Tools | [https://www.freeai.run/best-ai-tools](https://www.freeai.run/best-ai-tools) | 厳選 AI ツール集 |
+| Best AI Tools by Year | [https://www.freeai.run/best-ai-tools/[year]](https://www.freeai.run/best-ai-tools) | 年別のおすすめアーカイブ |
+| New This Month | [https://www.freeai.run/new](https://www.freeai.run/new) | 新着ツール一覧 |
+| Monthly Archive | [https://www.freeai.run/new/[month]](https://www.freeai.run/new) | 月別アーカイブ |
+| Categories | [https://www.freeai.run/categories](https://www.freeai.run/categories) | 全カテゴリ一覧 |
+| Category Detail | [https://www.freeai.run/categories/[slug]](https://www.freeai.run/categories) | 個別カテゴリのランディングページ |
+| Search | [https://www.freeai.run/search](https://www.freeai.run/search) | サイト内検索 |
+| Explore | [https://www.freeai.run/explore](https://www.freeai.run/explore) | 価格体系、プラットフォーム、設立年などで絞り込み |
+| Open Source | [https://www.freeai.run/open-source](https://www.freeai.run/open-source) | オープンソース AI ツール特集 |
+| Affiliate | [https://www.freeai.run/affiliate](https://www.freeai.run/affiliate) | アフィリエイト対応ツール一覧 |
+| Discount | [https://www.freeai.run/discount](https://www.freeai.run/discount) | 割引・クーポン・キャンペーン特集 |
+| Product Detail | [https://www.freeai.run/product/[slug]](https://www.freeai.run/product) | 個別ツールの SEO 詳細ページ |
+| Skills Hub | [https://www.freeai.run/skills](https://www.freeai.run/skills) | Skills 記事・ドキュメントの集約ページ |
+| Skill Article | [https://www.freeai.run/skills/[slug]](https://www.freeai.run/skills) | 個別記事ページ |
+| Pricing | [https://www.freeai.run/pricing](https://www.freeai.run/pricing) | 掲載プランと広告プランの公開価格ページ |
+| Submit | [https://www.freeai.run/submit](https://www.freeai.run/submit) | ツール掲載申請フロー |
+| Advertise | [https://www.freeai.run/advertise](https://www.freeai.run/advertise) | 広告クリエイティブ作成と決済フロー |
 
-## 主なページの役割
+## このサイトの価値
 
-- ホームページは、検索導線、トレンド表示、注目枠の露出を担います。
-- Free AI Tools は、無料で試せるツールを探すユーザー向けの入口です。
-- Best AI Tools は、厳選推薦型の一覧ページとして機能します。
-- New は、更新性と新着性を強く見せるページです。
-- Categories は、用途別の検索意図を受け止める重要な入口です。
-- Product Detail は、各ツールに独立したランディングページを与えます。
-- Search と Explore は、目的がはっきりしているユーザー向けの比較導線です。
-- Skills は、ディレクトリだけでは不足する情報量と文脈を補います。
-- Submit と Advertise は、プロダクト運営者向けのコンバージョンページです。
+- SEO 構造が強い: カテゴリ、無料ツール、ベスト、月次、新着、プロダクト詳細など複数の入口を持つ
+- 多言語対応: 英語、簡体字中国語、日本語をサポート
+- 収益導線が明確: 単なるディレクトリではなく、掲載申請、有料掲載、広告購入につながる
+- コンテンツ層が厚い: 一覧ページだけでなく Skills 系コンテンツも持ち、薄いサイトになりにくい
 
 ## 掲載プラン
 
+現在、FreeAI.run では無料掲載と有料アップグレードの両方を提供しています。
+
 ### Free Listing
 
-- 無料でサイトを掲載申請
-- 基本ディレクトリ掲載
-- 標準的な露出
-- サイトのフッターに FreeAI.run への dofollow バックリンクが必要
-- 3 日以内に審査
-- バッジの設置が必要
+- 無料でツールを申請可能
+- 基本的なディレクトリ掲載
+- 標準露出
+- サイトフッターに FreeAI.run への dofollow バックリンクが必要
+- 手動審査あり
+- 掲載バッジを選択可能
+- 申請フロー内で日次無料枠の制限あり
+- 現在の制限: ログインユーザー 1 人あたり 1 日 `1` 件まで
 
 ### One-Time
 
 価格: **$9.99 / 永久**
 
-- ホームページ掲載
-- ハイライト表示
-- 3 件以上の dofollow バックリンク
-- バックリンク不要の永久掲載
-- 即時審査ですぐ公開
+- ホーム掲載
+- 強調表示
+- 3件以上の dofollow バックリンク
+- 永久掲載、バックリンク不要
+- 即時審査、すぐ公開
 - 標準ディレクトリ掲載
-- 1 回の支払いで永久利用
-- 優先サポート
+- 1回払いで永久利用
 - バッジ不要
+- 優先サポート
+- 無料日次枠が埋まったときの優先掲載手段として利用可能
 
 ### Monthly Promotion
 
 価格: **$5.00 / 月**
 
-- 毎月トップ付近に自動再表示
-- ホームページで継続的に露出
-- 常にハイライト表示
-- 5 件以上の dofollow バックリンク
-- ディレクトリ全体で可視性向上
-- バックリンク不要の永久掲載
-- 即時審査ですぐ公開
+- 毎月トップ付近へ自動再表示
+- 継続的なホーム露出
+- 常時ハイライト表示
+- 5件以上の dofollow バックリンク
+- ディレクトリ内でより高い可視性
+- 永久掲載、バックリンク不要
+- 即時審査、すぐ公開
 - AI ツールディレクトリに掲載
-- 優先サポート
 - バッジ不要
+- 優先サポート
+- 価格ページ上では人気プランとして表示
 
 ### Featured Listing
 
 価格: **$29.00 / 月**
 
-- サイト全体のトップバナーに 7 日ローテーションで表示
-- 高トラフィックページでプレミアム露出
-- ホームページで継続露出
+- サイト全体のトップバナー露出
+- 高トラフィックページのプレミアム枠
+- 継続的なホーム露出
 - ほぼ全ページでプロモーション表示
-- 主要ページで優先掲載
+- 複数の主要ページで特集表示
 - ブランド認知と継続流入を強化
-- すべての listing の中で高い可視性
-- バックリンク不要の永久掲載
-- 即時審査ですぐ公開
+- 全 listing 内でより高い可視性
+- 永久掲載、バックリンク不要
+- 即時審査、すぐ公開
 - AI ツールディレクトリに掲載
-- 優先サポート
 - バッジ不要
+- 優先サポート
+- 標準の有料掲載より高い露出レベル
 
-## 広告プラン
+## 広告とプロモーション
 
-### Boost Listing (AD)
+FreeAI.run には、既にディレクトリへ掲載済みのプロダクト向けに、独立した広告出稿フローもあります。
 
-価格: **$9.90 / 7 日**
+現在の実装で対応している内容:
 
-- サイト全体の listing フィードに 7 日ローテーション表示
-- カテゴリ、検索など複数ページでランダム露出
-- プロダクト詳細ページのサイドバーに 7 日ローテーション表示
-- One-Time Pro 掲載へ無料アップグレード
+- 既掲載プロダクトを選んでから広告を作成
+- 英語、中国語、日本語の広告タイトル、遷移先 URL、短い広告文を入力可能
+- 掲載アップグレードと同じ決済基盤でチェックアウト
+- クリエイティブ審査後に配信
+- ユーザーダッシュボードで支払い、審査、配信状況を確認可能
+- インプレッション計測とクリック追跡に対応
 
-### Featured Promotion (AD)
+### 現在の広告枠
 
-価格: **$19.90 / 7 日**
+- `home_top`: ホーム上部バナー
+- `home_welcome_ad`: ホーム hero / welcome エリアのスポンサー枠
+- `list_mid_recommend`: ディレクトリ一覧内のスポンサー枠
+- `product_detail_sidebar_card`: プロダクト詳細ページのサイドバー広告枠
 
-- ホームの welcome セクションに 7 日ローテーション表示
-- site-wide listing フィードに露出
-- プロダクト詳細ページのサイドバーに 7 日間安定表示
-- ホーム、カテゴリ、検索、AI listing など複数ページで継続露出
-- One-Time Pro と Monthly Promotion へアップグレード
+### 広告料金について
 
-### Top Banner Campaign (AD)
+広告プランは、サイトの live 設定から動的に表示され、現在のリポジトリには価格が固定で残っていない場合があります。  
+今回の確認では、掲載プランの価格は live の `/pricing` ページから直接確認できましたが、広告プラン側はタブ切り替え内の動的表示で、この取得環境では完全には展開されませんでした。  
+そのため、広告プラン名と価格の最新情報は次の公開ページを基準にするのが最も正確です。
 
-価格: **$39.90 / 7 日**
+- [https://www.freeai.run/pricing](https://www.freeai.run/pricing)
+- [https://www.freeai.run/advertise](https://www.freeai.run/advertise)
 
-- サイト全体のトップバナーに 7 日ローテーション表示
-- ホームの welcome セクションにも表示
-- site-wide listing フィード全体で露出
-- プロダクト詳細ページで優先サイドバー表示
-- すべてのプロモーション枠で優先露出
-- Featured Listing へアップグレード
+この README では、確認できた広告機能と広告枠のみを正確に記載しています。
 
-### Premium Launch (AD)
+## ダッシュボード
 
-価格: **$89.00 / 7 日**
+プロジェクトにはユーザー向けと管理者向けの両方のダッシュボードがあります。
 
-- サイト全体のトップバナーを 7 日間独占表示
-- ホームの welcome セクションも独占表示
-- プロダクト詳細ページのサイドバーを 7 日間独占表示
-- site-wide listing フィードにも露出
-- すべての広告枠で最優先、同枠競合なし
-- Featured Listing へアップグレード
+ユーザー側:
 
-## FreeAI.run はどう紹介されるか
+- My orders
+- Profile / 掲載情報管理
+- Advertise 管理
+- Settings
 
-### 一般ユーザーから見ると
+## SEO とコンテンツ構造
 
-FreeAI.run は、実用的な AI ツール発見サイトとして見られます。すべてを一つの長い一覧に詰め込まず、無料ツール、厳選ツール、新着、オープンソース、割引、カテゴリ一覧を分けているため、目的のツールにたどり着きやすい構成です。
+FreeAI.run はブランド名検索だけでなく、幅広い AI ツール検索意図を取りにいく構造になっています。
 
-### プロダクト運営者から見ると
+主な SEO 向けレイヤー:
 
-FreeAI.run は、露出を増やすための掲載プラットフォームとして見られます。無料掲載から始めて、有料プランに上げたり、ホーム、一覧フィード、詳細ページ周辺の広告枠を使った短期キャンペーンも実施できます。
+- 無料 AI ツールページ
+- Best AI Tools ページ
+- 月次新着アーカイブ
+- カテゴリページ
+- プロダクト詳細ページ
+- オープンソース特集
+- アフィリエイト特集
+- 割引特集
+- Skills / ドキュメント型コンテンツ
 
-### マーケターから見ると
+この構造により、`free ai tools` のような大きなキーワードだけでなく、カテゴリ名、年、価格モデル、プロダクト名などのロングテールも狙いやすくなっています。
 
-FreeAI.run は、AI ツールを探しているユーザーが集まる縦型の集客チャネルとして説明しやすいサイトです。認知拡大、継続露出、短期プロモーションのどれにも使いやすい設計です。
+## 言語対応
 
-### コンテンツ運営者から見ると
-
-FreeAI.run は、薄い単発ページではなく、ホーム、カテゴリハブ、製品詳細、月次アーカイブ、厳選コレクション、Skills コンテンツを持つ整理されたコンテンツ型ディレクトリとして紹介できます。
-
-## 多言語アクセス
-
-対応言語:
+現在サポートしている言語:
 
 - English
 - 简体中文
 - 日本語
 
-日本語入口:
+ルート仕様:
 
-- [https://www.freeai.run/ja](https://www.freeai.run/ja)
+- 英語はデフォルトでプレフィックスなし
+- 中国語は `/zh`
+- 日本語は `/ja`
 
-英語はデフォルトでプレフィックスなし、中国語は `/zh` を利用します。
+例:
+
+- 英語: [https://www.freeai.run/](https://www.freeai.run/)
+- 中国語: [https://www.freeai.run/zh](https://www.freeai.run/zh)
+- 日本語: [https://www.freeai.run/ja](https://www.freeai.run/ja)
+
+## FreeAI.run が向いている人
+
+- 低品質なまとめページを避けて、実用的な無料 AI ツールを探したいユーザー
+- 自社 AI プロダクトの自然流入を増やしたい運営者
+- ディレクトリ内のネイティブ広告枠を使いたいマーケター
+- SEO を意識した構造的な AI 特化サイトを運営したい人
